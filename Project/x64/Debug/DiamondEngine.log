@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(41,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(42,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(161,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(161,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(235,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(536,3): error C2062: type 'double' unexpected
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(553,65): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(571,65): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(592,66): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(610,65): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(628,65): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(646,65): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(665,64): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Solar System CG\Solar System CG\main.cpp(683,65): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
