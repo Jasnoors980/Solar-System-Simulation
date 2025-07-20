@@ -23,14 +23,6 @@ Built as part of an academic project to visualize the planetary orbits, rotation
 - **IDE:** Visual Studio Code / Code::Blocks / Dev C++
 
 ---
-
-## Screenshots
-
-> Add screenshots of your simulation here  
-> ![Solar System Preview](./Screenshots/solar_system.png)
-
----
-
 ## Project Structure
 
 ```bash
