@@ -27,7 +27,7 @@ Built as part of an academic project to visualize the planetary orbits, rotation
 ## Screenshots
 
 > Add screenshots of your simulation here  
-> ![Solar System Preview](./screenshots/solar_system.png)
+> ![Solar System Preview](./Screenshots/solar_system.png)
 
 ---
 
